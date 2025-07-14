@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a passionate frontend developer with 2.4+ years of corporate experience. My expertise lies in the React framework, along with proficiency in JavaScript, HTML, and CSS. I have successfully worked on Microfrontend Architecture to optimize existing applications within my organization.
+I am a passionate frontend developer with 3+ years of corporate experience. My expertise lies in the React framework, along with proficiency in JavaScript, HTML, and CSS. I have successfully worked on Microfrontend Architecture to optimize existing applications within my organization.
 
 I am well-versed in version control with Git, continuous integration and deployment using Jenkins, and container orchestration with Kubernetes. My experience includes handling deployments and resolving server issues.
 
